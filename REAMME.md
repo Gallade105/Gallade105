@@ -6,3 +6,4 @@ The target audience of this guide is to help people who are unfamiliar with pc p
 
 - [CPU](https://github.com/Gallade105/Gallade105/blob/main/cpu.md)
 - [Video Card](https://github.com/Gallade105/Gallade105/blob/main/videocard.md)
+- [Motherboard](https://github.com/Gallade105/Gallade105/blob/main/motherboard.md)
