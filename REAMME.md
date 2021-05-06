@@ -4,6 +4,6 @@ The purpose of the tutorial is to show the reader what parts they'll need if the
 
 The target audience of this guide is to help people who are unfamiliar with pc parts and might have interest in building on for their classes or personal use.
 
-[CPU](https://github.com/Gallade105/Gallade105/blob/main/cpu.md)
+-[CPU](https://github.com/Gallade105/Gallade105/blob/main/cpu.md)
 
-[Video Card](https://github.com/Gallade105/Gallade105/blob/main/videocard.md)
+-[Video Card](https://github.com/Gallade105/Gallade105/blob/main/videocard.md)
