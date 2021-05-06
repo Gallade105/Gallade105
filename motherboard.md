@@ -12,4 +12,4 @@ If you're planning to build a PC I'd recommend using [PC Part Picker](https://pc
 
 ------------------------
 
-Back to home page [home](https://github.com/Gallade105/Gallade105/blob/main/REAMME.md)
+Back to [home](https://github.com/Gallade105/Gallade105/blob/main/REAMME.md) page.
