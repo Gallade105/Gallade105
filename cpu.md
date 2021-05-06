@@ -13,4 +13,4 @@ When building my PC this website was invaluable to making sure that all of my pa
 
 ------------------------------------------------
 
-Back to home page [home](https://github.com/Gallade105/Gallade105/blob/main/REAMME.md)
+Back to [home](https://github.com/Gallade105/Gallade105/blob/main/REAMME.md) page.
