@@ -4,7 +4,7 @@ When choosing a video card there is a few things that you need to consider.
 - The price
 - What am I looking for from my video card?
 
-The video card is installed into the motherboard and is responsible for graphic rendering. They are especially useful for tasking like video editing and getting higher frame rates or improved graphics while gaming.
+The video card is installed into the motherboard and is responsible for graphic rendering. They are especially useful for tasks like video editing and getting higher frame rates or improved graphics while gaming.
 
 Typically, you do not want to invest too much into a video card if you are not planning to do tasks that does not require an impressive video card. 
 
