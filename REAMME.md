@@ -8,3 +8,5 @@ The target audience of this guide is to help people who are unfamiliar with pc p
 - [Video Card](https://github.com/Gallade105/Gallade105/blob/main/videocard.md)
 - [Motherboard](https://github.com/Gallade105/Gallade105/blob/main/motherboard.md)
 - [System Memory](https://github.com/Gallade105/Gallade105/blob/main/memory.md)
+- [Storage](https://github.com/Gallade105/Gallade105/blob/main/storage.md)
+- [Power Supply Unit](https://github.com/Gallade105/Gallade105/blob/main/psu.md)
